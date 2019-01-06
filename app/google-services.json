@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1017051386203",
+    "firebase_url": "https://teachercorner-61bc9.firebaseio.com",
+    "project_id": "teachercorner-61bc9",
+    "storage_bucket": "teachercorner-61bc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017051386203:android:4fb996864db20b70",
+        "android_client_info": {
+          "package_name": "com.example.anirudhsharma392.teachercorner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017051386203-cjl5h951kihi41knebfdld4v8dkrjcjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anirudhsharma392.teachercorner",
+            "certificate_hash": "3e72bdffe50b93ae6596acee0d10765181f7fc79"
+          }
+        },
+        {
+          "client_id": "1017051386203-pubsgdjhaic4h4bsdikipea327qhfebb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsenE5LzSS-toXSdKEcM25rNUi1ki4t_A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017051386203-pubsgdjhaic4h4bsdikipea327qhfebb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
